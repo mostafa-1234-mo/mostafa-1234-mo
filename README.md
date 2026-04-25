@@ -21,9 +21,9 @@
 
 ### 🚀 Projects
 
-#### 💻 Software Development
+#### 💻 Software Development & Sustainability
 * [![](https://img.shields.io/badge/-⌨️%20Typing%20Trainer%20(C%23%20/%20Qt)-000)](https://github.com/YOUR_USERNAME/Typing-Trainer) - A speed training program developed with C# WinForms and C++/Qt.
-* [![](https://img.shields.io/badge/-🏙%20Green%20City%20Simulator-000)](https://github.com/YOUR_USERNAME/Green-City) - Environmental urban management simulation.
+* [![](https://img.shields.io/badge/-🌱%20Climate%20Action%20Project-000)](https://github.com/YOUR_USERNAME/Climate-Action) - A tech-driven solution focusing on environmental sustainability and climate awareness.
 
 #### ⚡ Hardware & Electronics
 * [![](https://img.shields.io/badge/-🔌%20Digital%20Logic%20Design-000)](https://github.com/YOUR_USERNAME/Digital-Electronics) - Circuit simulations and logic gate implementations (NAND/NOR/Full Adders).
