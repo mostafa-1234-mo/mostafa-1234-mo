@@ -10,8 +10,6 @@
 **Languages**
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=c-sharp&logoColor=239120)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=A8B9CC)
 
 **Technologies & Frameworks**
 ![.NET](https://img.shields.io/badge/-.NET%20Windows%20Forms-000?&logo=.net&logoColor=512BD4)
