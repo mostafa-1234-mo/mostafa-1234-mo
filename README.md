@@ -27,9 +27,6 @@
 * [![](https://img.shields.io/badge/-⌨️%20Typing%20Trainer%20(C%23%20/%20Qt)-000)](https://github.com/YOUR_USERNAME/Typing-Trainer) - A speed training program developed with C# WinForms and C++/Qt.
 * [![](https://img.shields.io/badge/-🏙%20Green%20City%20Simulator-000)](https://github.com/YOUR_USERNAME/Green-City) - Environmental urban management simulation.
 
-#### 🤖 AI & Innovation
-* [![](https://img.shields.io/badge/-🚗%20VisionAuto%20Project-000)](https://github.com/YOUR_USERNAME/VisionAuto) - AI-driven vehicle ecosystem for diagnostics and virtual simulations.
-
 #### ⚡ Hardware & Electronics
 * [![](https://img.shields.io/badge/-🔌%20Digital%20Logic%20Design-000)](https://github.com/YOUR_USERNAME/Digital-Electronics) - Circuit simulations and logic gate implementations (NAND/NOR/Full Adders).
 
