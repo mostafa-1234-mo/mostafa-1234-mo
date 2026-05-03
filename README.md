@@ -21,10 +21,8 @@
 ### 🚀 Projects
 
 #### 💻 Software Development & Simulation
-* [![](https://img.shields.io/badge/-⌨️%20Typing%20Trainer%20(C%23%20/%20Qt)-000)](https://github.com/YOUR_USERNAME/Typing-Trainer) - A speed training program developed with C# WinForms and C++/Qt.
-* [![](https://img.shields.io/badge/-🏎️%20VisionAuto-000)](https://github.com/YOUR_USERNAME/VisionAuto) - A software ecosystem for automotive diagnostics and performance simulation.
-* [![](https://img.shields.io/badge/-🏙️%20Green%20City%20Simulator-000)](https://github.com/YOUR_USERNAME/Green-City-Simulator) - An urban planning simulator focused on sustainability and green development.
-* [![](https://img.shields.io/badge/-🌱%20Climate%20Action%20Project-000)](https://github.com/YOUR_USERNAME/Climate-Action) - A tech-driven solution focusing on environmental sustainability and climate awareness.
+* [![](https://img.shields.io/badge/-⌨️%20Typing%20Trainer%20(C%23%20/%20Qt)-000)](https://github.com/YOUR_USERNAME/Typing-Trainer) - A speed training program developed with C# WinForms and C++.
+
 
 ---
 
