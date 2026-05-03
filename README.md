@@ -14,19 +14,17 @@
 **Technologies & Frameworks**
 ![.NET](https://img.shields.io/badge/-.NET%20Windows%20Forms-000?&logo=.net&logoColor=512BD4)
 ![Qt](https://img.shields.io/badge/-Qt%20Framework-000?&logo=Qt&logoColor=41CD52)
-![Tinkercad](https://img.shields.io/badge/-Tinkercad%20(Electronics)-000?&logo=tinkercad&logoColor=FF4F19)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
 
 ---
 
 ### 🚀 Projects
 
-#### 💻 Software Development & Sustainability
+#### 💻 Software Development & Simulation
 * [![](https://img.shields.io/badge/-⌨️%20Typing%20Trainer%20(C%23%20/%20Qt)-000)](https://github.com/YOUR_USERNAME/Typing-Trainer) - A speed training program developed with C# WinForms and C++/Qt.
+* [![](https://img.shields.io/badge/-🏎️%20VisionAuto-000)](https://github.com/YOUR_USERNAME/VisionAuto) - A software ecosystem for automotive diagnostics and performance simulation.
+* [![](https://img.shields.io/badge/-🏙️%20Green%20City%20Simulator-000)](https://github.com/YOUR_USERNAME/Green-City-Simulator) - An urban planning simulator focused on sustainability and green development.
 * [![](https://img.shields.io/badge/-🌱%20Climate%20Action%20Project-000)](https://github.com/YOUR_USERNAME/Climate-Action) - A tech-driven solution focusing on environmental sustainability and climate awareness.
-
-#### ⚡ Hardware & Electronics
-* [![](https://img.shields.io/badge/-🔌%20Digital%20Logic%20Design-000)](https://github.com/YOUR_USERNAME/Digital-Electronics) - Circuit simulations and logic gate implementations (NAND/NOR/Full Adders).
 
 ---
 
